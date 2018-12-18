@@ -8,7 +8,7 @@ module.exports = {
 
 		const panjulEmbed = new Discord.RichEmbed()
     .setColor('#0099ff')
-    .setTitle('Dedi Stark the Winkman')
+    .setTitle('Dedi Stark the Iron Winkman')
     
   
     
