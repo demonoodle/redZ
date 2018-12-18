@@ -1,0 +1,644 @@
+[
+    {
+        "question": "Sepandai pandainya tupai melompat pasti akan ... juga",
+        "hint": "J * * * *",
+        "answers": ["jalan", "JALAN"],
+        "reason": "masa iya tupai gak boleh jalan."
+    },
+    {
+        "question": "Sepuluh ditambah enam sama dengan enam ...",
+        "hint": "* * L * *",
+        "answers": ["salah", "Salah", "SALAH"],
+        "reason": "masa sepuluh ditambah enam sama dengan enam.."
+    },
+    {
+        "question": "Supaya bersih kita mandi dengan ...",
+        "hint": "* * * * N",
+        "answers": ["yakin", "Yakin", "YAKIN"],
+        "reason": "kalo gak yakin mending gak usah mandi.."
+    },
+    {
+        "question": "Yang mengemudikan kereta..",
+        "hint": "M * S * * * *",
+        "answers": ["masagus", "Masagus", "mas agus"],
+        "reason": "mas agus tetangga saya loh ya.."
+    },
+    {
+        "question": "Sehabis olah raga kita mengeluarkan..",
+        "hint": "* * R * * * * *",
+        "answers": ["airminum", "air minum", "Airminum"],
+        "reason": "abis olahraga pasti haus kan.."
+    },
+    {
+        "question": "Minuman yg tahan ngantuk dan enak kalo lagi begadang biasanya...",
+        "hint": "* * * I",
+        "answers": ["lagi", "Lagi", "LAGI"],
+        "reason": "kalo enak pasti mau nambah lagi.."
+    },
+    {
+        "question": "Di aquarium ada ikan 10, mati 2, tinggal ...",
+        "hint": "D * * * * * *",
+        "answers": ["dibuang", "Dibuang", "DIBUANG"],
+        "reason": "kalo gak dibuang ikan yg lain jadi ikutan mati.."
+    },
+    {
+        "question": "Orang makan karena ...",
+        "hint": "* A * * R",
+        "answers": ["sadar", "Sadar", "SADAR"],
+        "reason": "kalo gak sadar gak mungkin bisa makan.."
+    },
+    {
+        "question": "Yang tersedia di rumah makan padang",
+        "hint": "R E * * * * *",
+        "answers": ["recehan", "Recehan", "RECEHAN"],
+        "reason": "biar ada kembaliannya kan.."
+    },
+    {
+        "question": "Balonku ada lima, rupa rupa warnanya. meletus balon...",
+        "hint": "* * * A *",
+        "answers": ["duaar", "Duaar", "DUAAR"],
+        "reason": "meletus balon, hatiku sangat kacau hiks hiks.."
+    },
+    {
+        "question": "Menyanyi dalam bahasa inggris",
+        "hint": "* I * * * * *",
+        "answers": ["rihanna", "Rihanna", "RIHANNA"],
+        "reason": "emang pernah liat rihanna nyanyi pake bahasa indonesia?"
+    },
+    {
+        "question": "Lari jarak jauh",
+        "hint": "M A * * * * *",
+        "answers": ["malesin", "Malesin", "MALESIN"],
+        "reason": "udah jauh, panas lagi. kan malesin.."
+    },
+    {
+        "question": "Makanan khas indonesia dari kedelai yg sudah mendunia",
+        "hint": "* E * * *",
+        "answers": ["lezat", "Lezat", "LEZAT"],
+        "reason": "emang bener sih tempe lezat dan bergizi.."
+    },
+    {
+        "question": "Kalo mau bisa bahasa inggris, kamu harus baca ...",
+        "hint": "K * * * S",
+        "answers": ["keles", "Keles", "KELES"],
+        "reason": "ya harus baca kalo gak baca gak mungkin bisa.."
+    },
+    {
+        "question": "Orang yg memimpin negara",
+        "hint": "P * * * * * * *",
+        "answers": ["pastiada", "pasti ada", "PASTIADA"],
+        "reason": "orang yg mimpin negara ya pasti ada.."
+    },
+    {
+        "question": "Burung adalah hewan yg bisa ...",
+        "hint": "T E * * * * *",
+        "answers": ["temenan", "Temenan", "TEMENAN"],
+        "reason": "kalo terbang rame rame kan sama temennya"
+    },
+    {
+        "question": "Mulutmu ...",
+        "hint": "H A * * * * * * U",
+        "answers": ["hanyasatu", "Hanyasatu", "hanya satu"],
+        "reason": "mulut kan emang cuma satu.."
+    },
+    {
+        "question": "Ketika ... orang biasanya makan",
+        "hint": "* * * A *",
+        "answers": ["marah", "Marah", "MARAH"],
+        "reason": "mau marah apa engga kek, semua pasti makan.."
+    },
+    {
+        "question": "Kalo tidur jangan lupa ...",
+        "hint": "B * * * * *",
+        "answers": ["bangun", "Bangun", "BANGUN"],
+        "reason": "kalo gak bangun bisa gawat.."
+    },
+    {
+        "question": "Hati senang walaupun gak punya ...",
+        "hint": "K * * *",
+        "answers": ["kaca", "Kaca", "KACA"],
+        "reason": "kaca kan gak penting penting amat.."
+    },
+    {
+        "question": "Pemain real madrid bernomor punggung 11",
+        "hint": "* * * E",
+        "answers": ["bule", "Bule", "BULE"],
+        "reason": "gareth bale kan emang bule.."
+    },
+    {
+        "question": "Nyarinya susah, setelah dapet langsung dibuang",
+        "hint": "* * * P * *",
+        "answers": ["ngupil", "Ngupil", "NGUPIL"],
+        "reason": "lu suka ngupil kan.."
+    },
+    {
+        "question": "Di rumah ada adik, kakak, ibu ...",
+        "hint": "* A * * *",
+        "answers": ["masak", "Masak", "MASAK"],
+        "reason": "hmmm kira kira lagi masak apa ya.."
+    },
+    {
+        "question": "Hewan yg hinggap di makanan",
+        "hint": "* * * A *",
+        "answers": ["lapar", "Lapar", "LAPAR"],
+        "reason": "ya kan dia lapar.."
+    },
+    {
+        "question": "Mobil tidak bisa jalan maju sebab ...",
+        "hint": "* A * * * *",
+        "answers": ["parkir", "Parkir", "PARKIR"],
+        "reason": "lagian ngapain lagi parkir di majuin.."
+    },
+    {
+        "question": "Jakarta biasanya ...",
+        "hint": "P * * * *",
+        "answers": ["platb", "Platb", "PLATB"],
+        "reason": "karena jakarta nomer platnya B, biasanya panas.."
+    },
+    {
+        "question": "Makanan terasa hambar biasanya diberi ...",
+        "hint": "* * * A *",
+        "answers": ["saran", "Saran", "SARAN"],
+        "reason": "kasih saran yg masak, semoga lain kali masakannya enak.."
+    },
+    {
+        "question": "Valentino Rossi adalah pembalap yg berasal dari ...",
+        "hint": "* * * * * A",
+        "answers": ["ibunya", "Ibunya", "IBUNYA"],
+        "reason": "kalo bukan dari ibunya dari siapa.."
+    },
+    {
+        "question": "Bahasa indonesia Eat",
+        "hint": "* * * A *",
+        "answers": ["salah", "Salah", "SALAH"],
+        "reason": "Eat itu bahasa inggris.."
+    },
+    {
+        "question": "Air yg turun dari langit",
+        "hint": "H * * * *",
+        "answers": ["hebat", "Hebat", "HEBAT"],
+        "reason": "kan hebat hujan bisa turun dari langit.."
+    },
+    {
+        "question": "... dibalik batuu",
+        "hint": "U * * * *",
+        "answers": ["uutab", "Uutab", "UUTAB"],
+        "reason": "batuu kan dibalik jadi uutab.."
+    },
+    {
+        "question": "Pak tani menanam padi di",
+        "hint": "* * * A *",
+        "answers": ["lewat"],
+        "reason": "pa didi lewat mau ke pasar sepertinya.."
+    },
+    {
+        "question": "Menjelang lebaran kita tidak di wajibkan membeli",
+        "hint": "* A * *",
+        "answers": ["paku"],
+        "reason": "ngapain beli paku mending beli baju.."
+    },
+    {
+        "question": "Yang sering mengganggu manusia saat ingin melakukan kebaikan",
+        "hint": "* * * A *",
+        "answers": ["nakal"],
+        "reason": "mau berbuat baik malah di ganggu, nakal banget ya.."
+    },
+    {
+        "question": "Biasanya orang meninggal di..",
+        "hint": "K * * * R * *",
+        "answers": ["kabarin"],
+        "reason": "kasih tau sanak saudara baru di kuburin.."
+    },
+    {
+        "question": "Ikan bernafas dengan..",
+        "hint": "* * * A * G",
+        "answers": ["tenang"],
+        "reason": "kalo gelagapan bisa mati bahaya.."
+    },
+    {
+        "question": "Suara alat musik jreengg",
+        "hint": "* * * A *",
+        "answers": ["getar"],
+        "reason": "pas jreeng pasti getar dong gitarnya.."
+    },
+    {
+        "question": "Dari bandung ke surabaya kita menggunakan",
+        "hint": "* E * * * A",
+        "answers": ["celana"],
+        "reason": "masa gak pake celana, malu.."
+    },
+    {
+        "question": "Hari minggu disebut juga tanggal..",
+        "hint": "* I * * *",
+        "answers": ["tidak"],
+        "reason": "hari ya hari, tanggal ya tanggal.."
+    },
+    {
+        "question": "Biasanya orang minum obat karena..",
+        "hint": "* * * * T",
+        "answers": ["ingat"],
+        "reason": "kalo lupa biasanya ya gak minum.."
+    },
+    {
+        "question": "Rokok jika di bakar mengeluarkan..",
+        "hint": "* * A *",
+        "answers": ["anak"],
+        "reason": "ngerokok didepan anak gak baik, jadi keluarin dulu dari ruang rokok.."
+    },
+    {
+        "question": "Mandi biar..",
+        "hint": "* * * U *",
+        "answers": ["byuur"],
+        "reason": "segerr.. kamu udah mandi belom?"
+    },
+    {
+        "question": "Yang mengatur pertandingan sepak bola",
+        "hint": "W * * * *",
+        "answers": ["waktu"],
+        "reason": "2 x 45 menit loh ya kalo gak perpanjangan waktu.."
+    },
+    {
+        "question": "Apa fungsi rem?",
+        "hint": "N G * * * *",
+        "answers": ["ngebut"],
+        "reason": "kalo gak ada rem emang berani ngebut?"
+    },
+    {
+        "question": "Tokoh superhero dalam film The Dark Knight pasti..",
+        "hint": "* A * * A *",
+        "answers": ["dandan"],
+        "reason": "sebelum shooting pasti dandan dulu biar cakep.."
+    },
+    {
+        "question": "Bus transjakarta di prioritaskan melaju dijalur..",
+        "hint": "* * * * A *",
+        "answers": ["duluan"],
+        "reason": "jalur kanan bebas hambatan pasti duluan.."
+    },
+    {
+        "question": "Salah menggunakan shampo bisa berakibat..",
+        "hint": "* O * * O *",
+        "answers": ["nombok"],
+        "reason": "pasti nombok buat beli shampo lain.."
+    },
+    {
+        "question": "Patih kerajaan majapahit yg terkenal pasti..",
+        "hint": "* * * * * * A * A",
+        "answers": ["oranglama"],
+        "reason": "gajah mada kan bukan orang masa kini.."
+    },
+    {
+        "question": "Gitar listrik adalah alat musik yg di..",
+        "hint": "* * * * K",
+        "answers": ["peluk"],
+        "reason": "kalo di panggul susah mainnya.."
+    },
+    {
+        "question": "Saat mendaki gunung, orang biasanya mendirikan..",
+        "hint": "T * * * *",
+        "answers": ["tubuh"],
+        "reason": "gak bisa cuy naik gunung sambil rebahan.."
+    },
+    {
+        "question": "Untuk membuka pintu rumah kita perlu..",
+        "hint": "* U * * *",
+        "answers": ["punya"],
+        "reason": "kalo gak punya pintu ya apa yg mesti di buka.."
+    },
+    {
+        "question": "Sebelum mengadakan pernikahan, supaya tamu hadir biasanya pengantin menyiapkan..",
+        "hint": "U * * * * * * *",
+        "answers": ["uangdulu"],
+        "reason": "buat cetak undangan kan butuh uang.."
+    },
+    {
+        "question": "Dini hari disebut..",
+        "hint": "* U * * H",
+        "answers": ["sudah"],
+        "reason": "subuh udah lewat kan.."
+    },
+    {
+        "question": "Petinju yg dipukul KO, oleh wasit dinyatakan",
+        "hint": "* * * * H",
+        "answers": ["lemah"],
+        "reason": "yg lemah pasti kalah.."
+    },
+    {
+        "question": "Yang menyebabkan orang haus saat ramadhan",
+        "hint": "* * A * A",
+        "answers": ["cuaca"],
+        "reason": "panas banget diluar ya.."
+    },
+    {
+        "question": "Untuk menyalakan lampu kita harus pencet..",
+        "hint": "S * K * * *",
+        "answers": ["sekali"],
+        "reason": "kalo dipencet 2x ya mati lagi.."
+    },
+    {
+        "question": "Kecoa, rayap, semut, lebah, kumbang disebut..",
+        "hint": "* E * A * * * A",
+        "answers": ["bedabeda"],
+        "reason": "berbagai macam serangga yg gak sama kan.."
+    },
+    {
+        "question": "Supaya tampil maksimal, seorang penyanyi harus cek..",
+        "hint": "S * * * *",
+        "answers": ["saldo"],
+        "reason": "duit masuk auto suara bagus.."
+    },
+    {
+        "question": "Selalu hadir disaat susah maupun senang",
+        "hint": "* * * * B * T",
+        "answers": ["lohebat"],
+        "reason": "hebat banget lo udah kaya sahabat gue aja.."
+    },
+    {
+        "question": "Koran disebut surat",
+        "hint": "* A * A *",
+        "answers": ["salah"],
+        "reason": "koran ya koran, surat ya surat.."
+    },
+    {
+        "question": "Tidak punya uang sepeserpun",
+        "hint": "* E * *",
+        "answers": ["kera"],
+        "reason": "emangnya kera punya uang?"
+    },
+    {
+        "question": "Memasak tempe terlalu lama",
+        "hint": "G * * * N *",
+        "answers": ["garing"],
+        "reason": "hmm terlalu krispi.."
+    },
+    {
+        "question": "Negara timur tengah yg mempunyai piramida, beribukota di kairo sampai sekarang",
+        "hint": "M * * * *",
+        "answers": ["masih"],
+        "reason": "masih mesir sampe sekarang kan.."
+    },
+    {
+        "question": "Yang mengatur lalu lintas",
+        "hint": "* O * * * *",
+        "answers": ["soktau"],
+        "reason": "soktau amat sih ngatur ngatur.."
+    },
+    {
+        "question": "Sisi x sisi untuk menghitung luas",
+        "hint": "K * * A *",
+        "answers": ["kosan"],
+        "reason": "kosan kan bentuknya juga kotak.."
+    },
+    {
+        "question": "Panjul dimarahi bu guru karena kemarin ... sekolah",
+        "hint": "* O * O *",
+        "answers": ["bobol"],
+        "reason": "kampret memang si panjul.."
+    },
+    {
+        "question": "Yang dilakukan pembalap di lintasan",
+        "hint": "* A * * * * N",
+        "answers": ["manasin"],
+        "reason": "manasin mesin sebelum balapan ditemenin cewek bohay.."
+    },
+    {
+        "question": "Yang tulisannya susah dibaca",
+        "hint": "* * * T * R",
+        "answers": ["zxmtnr"],
+        "reason": "gak kebaca kan itu.."
+    },
+    {
+        "question": "kita merasa terganggu kalau di hidung ada..",
+        "hint": "K * M * * *",
+        "answers": ["komodo"],
+        "reason": "cepetan kabur kalo ada komodo.."
+    },
+    {
+        "question": "Minuman yg kita masukkan ke kulkas pasti..",
+        "hint": "* I * * * N",
+        "answers": ["ringan"],
+        "reason": "gak mungkin kan galon masuk ke kulkas.."
+    },
+    {
+        "question": "Semut bahasa inggrisnya..",
+        "hint": "A * *",
+        "answers": ["ada"],
+        "reason": "semut ada bahasa inggrisnya kan ant.."
+    },
+    {
+        "question": "Tau katak? anaknya disebut..",
+        "hint": "* E * * * * * *",
+        "answers": ["keluarga"],
+        "reason": "yg namanya anak pasti keluarganya.."
+    },
+    {
+        "question": "Dalam pertandingan sepak bola, yg jaga gawang pasti..",
+        "hint": "* I * * *",
+        "answers": ["lihat"],
+        "reason": "kiper kalo gak lihat pasti kebobolan.."
+    },
+    {
+        "question": "Orang menimba air di..",
+        "hint": "* U * * *",
+        "answers": ["tuang"],
+        "reason": "abis di angkat dari sumur kan di tuang ke ember.."
+    },
+    {
+        "question": "Hewan yg memakan rumput, biasa dipotong dan dijadikan sate",
+        "hint": "K * * I * * *",
+        "answers": ["kasihan"],
+        "reason": "sedih ya kasihan kelincinya.."
+    },
+    {
+        "question": "Orang yg memberikan kartu di lapangan sepak bola pasti..",
+        "hint": "* * * I *",
+        "answers": ["milih"],
+        "reason": "wasitnya pasti milih dulu kartu kuning apa merah.."
+    },
+    {
+        "question": "Mobil kita tidak bisa dikendarai karena habis..",
+        "hint": "* E * * * *",
+        "answers": ["kejual"],
+        "reason": "mau make tapi udah bukan punya kita hiks hiks.."
+    },
+    {
+        "question": "Di restoran, kita biasanya makan menggunakan sendok dan ..",
+        "hint": "* A * * U",
+        "answers": ["mampu"],
+        "reason": "kalo gak mampu gausah makan di restoran.."
+    },
+    {
+        "question": "Orang yg tidur kedua matanya harus..",
+        "hint": "* E * * *",
+        "answers": ["dekat"],
+        "reason": "kalo matanya jauh pasti bukan orang itu.."
+    },
+    {
+        "question": "Kambing yg ditusuk tusuk dan siap dibakar jadi..",
+        "hint": "* A * *",
+        "answers": ["lari"],
+        "reason": "pasti dia ketakutan.."
+    },
+    {
+        "question": "Alat transportasi di bawah laut adalah kapal..",
+        "hint": "* * * A *",
+        "answers": ["tnial"],
+        "reason": "pastinya TNI AL punya kapal selam.."
+    },
+    {
+        "question": "Saat ban motor kita bocor di jalan harus di..",
+        "hint": "T * * * * *",
+        "answers": ["tunggu"],
+        "reason": "tambal ban motor kan harus ditungguin.."
+    },
+    {
+        "question": "Penjara bisa heboh kalo semua napinya..",
+        "hint": "* * * U *",
+        "answers": ["batuk"],
+        "reason": "pasti berisik dan rawan kena tbc.."
+    },
+    {
+        "question": "Mahasiswa yg ingin meraih gelar sarjana harus menyelesaikan..",
+        "hint": "S * * * * * I",
+        "answers": ["sendiri"],
+        "reason": "Sidang skripsi kan gak bisa di wakilin.."
+    },
+    {
+        "question": "Orang yg mengambil barang diam diam dan tanpa izin pasti..",
+        "hint": "P * * * * * *",
+        "answers": ["pemilik"],
+        "reason": "ngapain bilang bilang kan dia yg punya barang.."
+    },
+    {
+        "question": "Matahari, bulan, bintang, awan, pesawat, itu semuanya ada di..",
+        "hint": "* A * * I *",
+        "answers": ["bacain"],
+        "reason": "barusan kan kita baca itu.."
+    },
+    {
+        "question": "Saat bikin kopi atau teh, supaya lebih enak harus ada..",
+        "hint": "* U * *",
+        "answers": ["dulu"],
+        "reason": "kalo gak ada ya mau bikin apa.."
+    },
+    {
+        "question": "Gajah bisa menyemprotkan air karena punya..",
+        "hint": "* E * A * A *",
+        "answers": ["kemauan"],
+        "reason": "kalo gak mau ya gak bakal nyemprot air dia.."
+    },
+    {
+        "question": "Kura kura adalah hewan yg mempunyai..",
+        "hint": "T * M * * * * * *",
+        "answers": ["temencewe"],
+        "reason": "kalo gakpunya temen cewe kasian dia gak bisa kawin.."
+    },
+    {
+        "question": "seorang matador bisa terluka karena diseruduk..",
+        "hint": "B * * * * * *",
+        "answers": ["biskota"],
+        "reason": "diseruduk banteng mah gak seberapa, udah biasa.."
+    },
+    {
+        "question": "Valentino rossi, marquez, pedrosa, biasanya salaman setelah..",
+        "hint": "* A * * * * N",
+        "answers": ["kawinan"],
+        "reason": "semua tamu undangan pasti di salamin.."
+    },
+    {
+        "question": "Serigala muncul saat bulan..",
+        "hint": "* * * * A * A",
+        "answers": ["apasaja"],
+        "reason": "gak ada yg larang kok.."
+    },
+    {
+        "question": "Masalah",
+        "hint": "P R * * * * *",
+        "answers": ["prkimia"],
+        "reason": "coba aja tanya shiro.."
+    },
+    {
+        "question": "Tumbuhan yg hidup di padang pasir",
+        "hint": "* A * * * *",
+        "answers": ["nancep"],
+        "reason": "kaktus kan nancep di pasir.."
+    },
+    {
+        "question": "Yang membela tersangka di pengadilan pasti..",
+        "hint": "P * * * * * A * *",
+        "answers": ["pakaibaju"],
+        "reason": "malu dong kalo gak pake baju.."
+    },
+    {
+        "question": "Kera yg tubuhnya sangat besar",
+        "hint": "G * * * * *",
+        "answers": ["gadiet"],
+        "reason": "pasti makan terus tuh jadi gendut.."
+    },
+    {
+        "question": "Kita memperbaiki mobil di..",
+        "hint": "B * N * * * *",
+        "answers": ["benerin"],
+        "reason": "kalo rusak kan di benerin.."
+    },
+    {
+        "question": "Ubi dan singkong biasanya ditanam orang di..",
+        "hint": "K * * U *",
+        "answers": ["kubur"],
+        "reason": "kalo gak dikubur susah tumbuhnya.."
+    },
+    {
+        "question": "Telur lebih enak kalau di",
+        "hint": "* * * * S",
+        "answers": ["kupas"],
+        "reason": "kalo gak di kupas kan susah makannya.."
+    },
+    {
+        "question": "Yang tugasnya mengirim barang pasti..",
+        "hint": "* * R * *",
+        "answers": ["pergi"],
+        "reason": "kalo gak pergi nanti dimarahin bos.."
+    },
+    {
+        "question": "Yang dilakukan orang didalam bioskop",
+        "hint": "N * * * * *",
+        "answers": ["ngedip"],
+        "reason": "pedih mata kalo gak ngedip.."
+    },
+    {
+        "question": "Burung bisa terbang karena memiliki..",
+        "hint": "* A * A *",
+        "answers": ["bakat"],
+        "reason": "bakat terlahir bisa terbang itu.."
+    },
+    {
+        "question": "Unggas berkaki dua",
+        "hint": "B * * E *",
+        "answers": ["bener"],
+        "reason": "emang ada unggas berkaki delapan?"
+    },
+    {
+        "question": "Yang biasa di simpan di karung",
+        "hint": "* E * * S",
+        "answers": ["bebas"],
+        "reason": "terserah lu mau nyimpen apa aja.."
+    },
+    {
+        "question": "Yang dibeli seorang cowok untuk pacarnya disaat valentine biasanya..",
+        "hint": "B * * * *",
+        "answers": ["bayar"],
+        "reason": "awas digebukin warga kalo gak bayar.."
+    },
+    {
+        "question": "Seorang pemenang lomba biasanya mendapatkan..",
+        "hint": "* I * * *",
+        "answers": ["ridho"],
+        "reason": "ridho orang tua memang paling ampuh.."
+    },
+    {
+        "question": "Saat kita memasak, makanan bisa keasinan karena terlalu banyak..",
+        "hint": "* * R * M",
+        "answers": ["merem"],
+        "reason": "jadi kebanyakan garem kan ah.."
+    }
+]

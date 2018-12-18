@@ -1,0 +1,28 @@
+{
+  "name": "redz",
+  "version": "1.0.0",
+  "description": "redz",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demonoodle/redZ.git"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "author": "demonoodle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demonoodle/redZ/issues"
+  },
+  "homepage": "https://github.com/demonoodle/redZ#readme"
+  
+}
