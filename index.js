@@ -181,7 +181,7 @@ const m = await message.channel.send("Pingping bening aduhay?");
 
 		if (now < expirationTime) {
 			const timeLeft = (expirationTime - now) / 1000;
-			return message.reply(`please wait ${timeLeft.toFixed(1)} more second(s) before reusing the \`${command.name}\` command.`);
+			return message.reply(`Jangan kecepetan dong Lumia pusing! tunggu ${timeLeft.toFixed(1)} detik lagi.`);
 		}
 	}
 
