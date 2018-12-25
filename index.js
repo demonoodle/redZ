@@ -1,6 +1,8 @@
 const fs = require('fs');
 const Discord = require('discord.js');
-const { prefix, token, kose } = require('./config.json');
+const { prefix, token, kose, apiaiToken } = require('./config.json');
+const apiai = require('apiai');
+const app = apiai(apiaiToken);
 
 const client = new Discord.Client();
 client.commands = new Discord.Collection();

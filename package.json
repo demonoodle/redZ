@@ -4,6 +4,7 @@
   "description": "redz",
   "main": "index.js",
   "dependencies": {
+    "apiai": "^4.0.3",
     "discord.js": "^11.4.2"
   },
   "devDependencies": {},
@@ -24,5 +25,4 @@
     "url": "https://github.com/demonoodle/redZ/issues"
   },
   "homepage": "https://github.com/demonoodle/redZ#readme"
-  
 }
