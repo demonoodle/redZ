@@ -6,7 +6,7 @@ const app = apiai(apiaiToken);
 module.exports = {
 	name: '!',
 	description: 'saying',
-	cooldown: 5,
+	cooldown: 2,
 	execute(message,args) {
 
 const request = app.textRequest(message.content.slice(2), {
